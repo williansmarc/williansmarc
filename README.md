@@ -1,16 +1,16 @@
-### Hi there 👋
+# Willians Marc
+#### _Web Designer especialista em WordPress migrando para Desenvolvimento Front-End_
 
-<!--
-**williansmarc/williansmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmente buscando recoloção no mercado e trabalhando como freelancer
 
-Here are some ideas to get you started:
+### 🛠  Tech Stack
+### 🖼️  Front-end
+Experiência em HTML, CSS e JavaScript
+Conhecimento em React 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️  Back-End
+Conhecimentos em PHP e ASP.net
+
+### 🗄️ Database
+Experiência em  SqlServer  
+Conhecimentos em MySQL 
