@@ -6,7 +6,7 @@
 ### 🛠  Tech Stack
 ### 🖼️  Front-end
 Experiência em HTML, CSS e JavaScript
-Conhecimento em React 
+Conhecimento em React e Python.
 
 ### 🖥️  Back-End
 Conhecimentos em PHP e ASP.net
